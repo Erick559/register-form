@@ -3,3 +3,12 @@
     padding:0;
     box-sizing: border-box;
 }
+
+body{
+    background: url(gradient.jpeg);
+    background-position:40% 60%;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
