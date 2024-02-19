@@ -80,7 +80,8 @@ form{
 }
 
 .form-row.checkbox label{
-    font-size: 15px;
+    font-size: 20px;
+    margin: 5px;
 }
 
 .form-row.block input[type="password"],
@@ -93,18 +94,25 @@ button{
     padding: 20px;
     width:90%;
     font-size: 20px;
+    font-weight: 600;
     background:#4218B8;
     color:white;
     border-radius: 20px;
     cursor: pointer;
 }
 
+button:hover{
+    background:linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    color:black;
+}
+
 .sign-in-prompt{
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .sign-in-prompt span{
     color:#4218B8;
+    cursor: pointer;
 }
 
 #email:not(:placeholder-shown):invalid{
