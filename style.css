@@ -36,9 +36,6 @@ body{
 .img-section{
     padding: 40px 0 0 30px;
     width:55%;
-    background: url(collaboration.jpeg) ;
-    background-repeat: no-repeat;
-    background-size: 800px 800px;
 }
 
 .img-section h1{
@@ -49,4 +46,5 @@ body{
 .form-section{
     background: white;
     width:45%;
+    border-radius: 20px;
 }
