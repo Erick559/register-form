@@ -34,5 +34,11 @@ body{
     padding: 40px 0 0 30px;
     width:55%;
     background: url(collaboration.jpeg) ;
-    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 800px 800px;
+}
+
+.img-section h1{
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
