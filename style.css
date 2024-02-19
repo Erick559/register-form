@@ -55,3 +55,8 @@ body{
     font-weight: 200;
     margin-bottom: 20px;
 }
+
+.form-row.block input,
+.form-row.block label{
+    display: block;
+}
