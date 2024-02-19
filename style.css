@@ -32,5 +32,7 @@ body{
 
 .img-section{
     padding: 30px;
-    width:60%;
+    width:55%;
+    background: url(collaboration.jpeg) ;
+    background-size: contain;
 }
